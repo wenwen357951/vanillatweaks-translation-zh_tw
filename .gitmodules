@@ -1,6 +1,3 @@
 [submodule "afk-display"]
 	path = afk-display
 	url = https://github.com/wenwen357951/vanillatweaks-afk-display-zh_tw.git
-[submodule "multiplayer-sleep"]
-	path = multiplayer-sleep
-	url = https://github.com/wenwen357951/vanillatweaks-multiplayer-sleep-zh_tw.git
